@@ -1,0 +1,10 @@
+*{
+margin: 0;
+padding: 0;
+}
+header {
+font: bold 32px/200% Arial, Helvetica, sans-serif;
+background: #333;
+color: #c00;
+text-transform: uppercase;
+}
